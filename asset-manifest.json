@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Insta-Prank/static/css/main.d48c7745.css",
-    "main.js": "/Insta-Prank/static/js/main.5ccd146e.js",
+    "main.css": "/Insta-Prank/static/css/main.f57e54db.css",
+    "main.js": "/Insta-Prank/static/js/main.53db2f6f.js",
     "static/media/img.gif": "/Insta-Prank/static/media/img.10acc58643f8a4668c97.gif",
     "static/media/bg.gif": "/Insta-Prank/static/media/bg.df46cbf290b200bc9fbb.gif",
+    "static/media/1490.gif": "/Insta-Prank/static/media/1490.36dc01f73aab61be9819.gif",
     "index.html": "/Insta-Prank/index.html",
-    "main.d48c7745.css.map": "/Insta-Prank/static/css/main.d48c7745.css.map",
-    "main.5ccd146e.js.map": "/Insta-Prank/static/js/main.5ccd146e.js.map"
+    "main.f57e54db.css.map": "/Insta-Prank/static/css/main.f57e54db.css.map",
+    "main.53db2f6f.js.map": "/Insta-Prank/static/js/main.53db2f6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d48c7745.css",
-    "static/js/main.5ccd146e.js"
+    "static/css/main.f57e54db.css",
+    "static/js/main.53db2f6f.js"
   ]
 }
