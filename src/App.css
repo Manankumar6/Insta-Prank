@@ -44,7 +44,7 @@ body {
 .content {
   width: 500px;
   height: 500px;
-  border: 2px solid beige;
+
   margin: 3px;
   color: #00ff00;
   position: relative;
@@ -115,8 +115,8 @@ input {
   /* Take full width of the parent */
   max-width: 300px;
   position: absolute;
-  top: 40%;
-  left: 50%;
+  top: 33%;
+  left: 57%;
   font-size: 20px;
   transform: translate(-50%);
   filter: invert();
@@ -213,10 +213,13 @@ input {
   .content {
     font-size: 20px;
   }
-  .result{
-    height: 60vh;
+ .loading p{
+   font-size:15px;
+ }
+  .bx{
+    font-size: 20px;
   }
-  .container{
-    height: 110vh;
+  .show_passbtn{
+    left:45%;
   }
 }

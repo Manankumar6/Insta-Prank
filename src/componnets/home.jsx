@@ -71,8 +71,8 @@ const Home = () => {
               
                 </div>
                 <div className="content">
-                    <div className='result'>{msg.map((message, index) => {
 
+                    <div className='result'>{msg.map((message, index) => {
                         return (
                             <>
                                 <p key={index}>{message}</p>
