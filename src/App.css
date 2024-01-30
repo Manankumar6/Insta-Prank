@@ -6,6 +6,7 @@
 }
 
 body {
+  height: auto;
   background: url('../public/image/bg.gif');
   color: white;
 }
@@ -41,6 +42,9 @@ body {
 }
 
 .content {
+  width: 500px;
+  height: 500px;
+  border: 2px solid beige;
   margin: 3px;
   color: #00ff00;
   position: relative;
@@ -90,7 +94,7 @@ input {
 .result,
 .hack_alt {
   width: 100%;
-  max-width: 600px;
+  max-width: 500px;
   /* Set a maximum width for larger screens */
   margin: 0 auto;
   /* Center the element on the page */
@@ -99,7 +103,7 @@ input {
 .result {
   display: flex;
   flex-direction: column-reverse;
-  height: 60vh;
+  height: 400px;
   /* 60% of the viewport height */
   border: 2px solid #00ff1e;
   position: relative;
@@ -210,6 +214,9 @@ input {
     font-size: 20px;
   }
   .result{
-    height: 65vh;
+    height: 60vh;
+  }
+  .container{
+    height: 110vh;
   }
 }

@@ -67,7 +67,8 @@ const Home = () => {
         <>
             <div className="container">
                 <div className="img_containter">
-                    <img src="/image/img.gif" alt="" />
+                    <img src="/image/img.gif" alt="imge" />
+              
                 </div>
                 <div className="content">
                     <div className='result'>{msg.map((message, index) => {
