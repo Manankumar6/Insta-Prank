@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Prank-App/static/css/main.265a41e5.css",
+    "main.js": "/Prank-App/static/js/main.802dbf12.js",
+    "static/media/bg.gif": "/Prank-App/static/media/bg.df46cbf290b200bc9fbb.gif",
+    "index.html": "/Prank-App/index.html",
+    "main.265a41e5.css.map": "/Prank-App/static/css/main.265a41e5.css.map",
+    "main.802dbf12.js.map": "/Prank-App/static/js/main.802dbf12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265a41e5.css",
+    "static/js/main.802dbf12.js"
+  ]
+}
