@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Insta-Prank/static/css/main.d48c7745.css",
+    "main.js": "/Insta-Prank/static/js/main.e8d1a464.js",
+    "static/media/bg.gif": "/Insta-Prank/static/media/bg.df46cbf290b200bc9fbb.gif",
+    "index.html": "/Insta-Prank/index.html",
+    "main.d48c7745.css.map": "/Insta-Prank/static/css/main.d48c7745.css.map",
+    "main.e8d1a464.js.map": "/Insta-Prank/static/js/main.e8d1a464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48c7745.css",
+    "static/js/main.e8d1a464.js"
+  ]
+}
