@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Insta-Prank/static/css/main.19c4a346.css",
-    "main.js": "/Insta-Prank/static/js/main.d75a75aa.js",
+    "main.js": "/Insta-Prank/static/js/main.da42ee94.js",
     "static/media/img.gif": "/Insta-Prank/static/media/img.10acc58643f8a4668c97.gif",
     "static/media/bg.gif": "/Insta-Prank/static/media/bg.df46cbf290b200bc9fbb.gif",
     "static/media/1490.gif": "/Insta-Prank/static/media/1490.36dc01f73aab61be9819.gif",
     "index.html": "/Insta-Prank/index.html",
     "main.19c4a346.css.map": "/Insta-Prank/static/css/main.19c4a346.css.map",
-    "main.d75a75aa.js.map": "/Insta-Prank/static/js/main.d75a75aa.js.map"
+    "main.da42ee94.js.map": "/Insta-Prank/static/js/main.da42ee94.js.map"
   },
   "entrypoints": [
     "static/css/main.19c4a346.css",
-    "static/js/main.d75a75aa.js"
+    "static/js/main.da42ee94.js"
   ]
 }
